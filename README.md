@@ -14,3 +14,5 @@
 * `git branch` - list local branches, highlight current branch
 * `git branch [branchName]` - create `branchName`
 * `git checkout branchName` - switch to branch `branchName`
+* `git checkout -b otherBranch` - switch to branch `otherBranch`, creating it if it doesn't exist
+
